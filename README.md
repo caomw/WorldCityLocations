@@ -36,5 +36,7 @@ The sql file contains the schema to reproduce the location table in your designa
     SELECT latitude,longitude,altitude FROM location WHERE country='COUNTRY_NAME' AND city = 'CITY_NAME'
 
 
-
+# Other Resources
+1. http://simplemaps.com/resources/files/world/world_cities.csv
+2. http://www.geonames.org
 
